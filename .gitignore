@@ -1,0 +1,9 @@
+# 编译产物(不提交二进制文件)
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# VS Code 本地配置
+.vscode/

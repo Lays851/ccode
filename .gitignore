@@ -4,6 +4,21 @@
 *.obj
 *.out
 a.out
+*.elf
+*.tar.bz2
+*Zone.Identifier
+
+# Linux 下编译出的无扩展名可执行文件
+0722/1-2
+0730/通用链表/test_int
+0730/通用链表/test_string
+0731/BST/bst
+0731/main
+0803/avl
+0803/test1
+0805/betterhash
+0805/bst
+0805/hashtest
 
 # VS Code 本地配置
 .vscode/

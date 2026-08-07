@@ -19,5 +19,9 @@ int main(void) {
     for (Node *p = head; p; p = p->next)
         printf("%d ", p->data);
     printf("\n");
+
+    int s[] = {0};
+    s[1] = 1;
+    printf("%ld\n", sizeof(s));
     return 0;
 }

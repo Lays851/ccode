@@ -1,0 +1,7 @@
+total 48
+-rwxrwxr-x 1 xingwsl xingwsl 16088 Aug 11 15:49 a.out
+-rw-rw-r-- 1 xingwsl xingwsl  5057 Aug 11 13:43 a.txt
+-rw-r--r-- 1 xingwsl xingwsl     0 Aug 11 15:50 b.txt
+-rw-rw-r-- 1 xingwsl xingwsl   281 Aug 11 15:46 copy.c
+-rwxrwxr-x 1 xingwsl xingwsl 16088 Aug 11 15:49 dup2
+-rw-rw-r-- 1 xingwsl xingwsl   370 Aug 11 15:46 dup2.c
